@@ -1,7 +1,6 @@
 {
   "name": "vue3-ctx-menu",
-  "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0-rc.1",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -13,5 +12,25 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.3.3",
     "vite": "^2.9.9"
-  }
+  },
+  "description": "Fully functional Context Menu component compatible with Vue 3 and Vue 2.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bashovski/vue3-ctx-menu.git"
+  },
+  "keywords": [
+    "context-menu",
+    "vue3-context-menu",
+    "vue3",
+    "vue",
+    "context",
+    "menu"
+  ],
+  "author": "Anur Basic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bashovski/vue3-ctx-menu/issues"
+  },
+  "homepage": "https://github.com/bashovski/vue3-ctx-menu#readme"
 }
